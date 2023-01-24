@@ -10,14 +10,14 @@ rating for each branch. You will then be required to provide recommendations on 
 best marketing strategy to undertake.
 
 The expected deliverable is a Python notebook that will cover the following:
-● Business understanding
-● Data exploration
-● Data cleaning
-● Data analysis and visualization (Using Seaborn for visualization)
-● Summary of findings
-● Recommendations
+* Business understanding
+* Data exploration
+* Data cleaning
+* Data analysis and visualization (Using Seaborn for visualization)
+* Summary of findings
+* Recommendations
 You can use the following guiding notebook to get started.
 
 ## Dataset
 The dataset provided contains sales data for the past three months.
-● Dataset Link: https://bit.ly/SupermarketsDS
+* Dataset Link: https://bit.ly/SupermarketsDS
